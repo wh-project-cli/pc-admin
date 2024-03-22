@@ -1,0 +1,472 @@
+[
+	{
+		"id": "695a758820dd410c8d66654b572d6d8a",
+		"text": "示例",
+		"icons": "",
+		"url": "",
+		"pid": "root",
+		"fourthTabs": [],
+		"children": [
+			{
+				"id": "695a758820dd410c8d66654b572d6d8b",
+				"text": "404",
+				"icons": "",
+				"url": "#/error?type=0",
+				"pid": "695a758820dd410c8d66654b572d6d8a",
+				"fourthTabs": [],
+				"children": []
+			},
+			{
+				"id": "695a758820dd410c8d66654b572d6d8c",
+				"text": "开发中",
+				"icons": "",
+				"url": "#/error?type=1",
+				"pid": "695a758820dd410c8d66654b572d6d8a",
+				"fourthTabs": [],
+				"children": []
+			}
+		]
+	},
+	{
+		"id": "2",
+		"text": "新-研发管理",
+		"icons": "",
+		"url": "",
+		"pid": "root",
+		"fourthTabs": [],
+		"children": [
+			{
+				"id": "2-1",
+				"text": "研发立项",
+				"icons": "",
+				"url": "#/development-mange/development-project/index",
+				"pid": "2-1-a",
+				"fourthTabs": [],
+				"children": []
+			},
+			{
+				"id": "2-2",
+				"text": "我的研发立项",
+				"icons": "",
+				"url": "#/development-mange/development-project/index?myList=1",
+				"pid": "2-2-a",
+				"fourthTabs": [],
+				"children": []
+			},
+			{
+				"id": "2-3",
+				"text": "研发台账",
+				"icons": "",
+				"url": "#/development-manage/development-ledger/index",
+				"pid": "2-3-a",
+				"fourthTabs": [],
+				"children": []
+			},
+			{
+				"id": "2-4",
+				"text": "我的研发台账",
+				"icons": "",
+				"url": "#/development-manage/development-ledger/index?myListPro=1",
+				"pid": "2-4-a",
+				"fourthTabs": [],
+				"children": []
+			},
+			{
+				"id": "2-5",
+				"text": "研发变更",
+				"icons": "",
+				"url": "#/development-manage/development-change/index",
+				"pid": "2-5-a",
+				"fourthTabs": [],
+				"children": []
+			},
+			{
+				"id": "2-6",
+				"text": "我的研发变更",
+				"icons": "",
+				"url": "#/development-manage/development-change/index?myList=1",
+				"pid": "2-6-a",
+				"fourthTabs": [],
+				"children": []
+			},
+			{
+				"id": "2-7",
+				"text": "研发结项",
+				"icons": "",
+				"url": "#/development-manage/development-closingTheItem/index",
+				"pid": "2-7-a",
+				"fourthTabs": [],
+				"children": []
+			},
+			{
+				"id": "2-8",
+				"text": "我的研发结项",
+				"icons": "",
+				"url": "#/development-manage/development-closingTheItem/index?myList=1",
+				"pid": "2-8-a",
+				"fourthTabs": [],
+				"children": []
+			}
+		]
+	},
+	{
+		"id": "3",
+		"text": "新-费控管理",
+		"icons": "",
+		"url": "",
+		"pid": "root",
+		"fourthTabs": [],
+		"children": [
+			{
+				"id": "3-1",
+				"text": "差旅",
+				"icons": "",
+				"pid": "3-1-a",
+				"fourthTabs": [],
+				"children": [
+					{
+						"id": "3-1-1",
+						"text": "差旅申请",
+						"icons": "",
+						"url": "#/costControlManage/travelApply",
+						"pid": "3-1-1-a",
+						"fourthTabs": [],
+						"children": []
+					},
+					{
+						"id": "3-1-2",
+						"text": "差旅变更申请",
+						"icons": "",
+						"url": "#/costControlManage/travelChange",
+						"pid": "3-1-2-a",
+						"fourthTabs": [],
+						"children": []
+					},
+					{
+						"id": "3-1-3",
+						"text": "差旅报销",
+						"icons": "",
+						"url": "#/costControlManage/travelReimburse",
+						"pid": "3-1-3-a",
+						"fourthTabs": [],
+						"children": []
+					}
+				]
+			},
+			{
+				"id": "3-2",
+				"text": "费用",
+				"icons": "",
+				"pid": "3-2-a",
+				"fourthTabs": [],
+				"children": [
+					{
+						"id": "3-2-1",
+						"text": "费用申请",
+						"icons": "",
+						"url": "#/costControlManage/expenseApply",
+						"pid": "3-2-1-a",
+						"fourthTabs": [],
+						"children": []
+					},
+					{
+						"id": "3-2-2",
+						"text": "费用报销",
+						"icons": "",
+						"url": "#/costControlManage/expenseReimburse",
+						"pid": "3-2-2-a",
+						"fourthTabs": [],
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "4",
+		"text": "工作管理",
+		"icons": "",
+		"url": "",
+		"pid": "root",
+		"fourthTabs": [],
+		"children": [
+			{
+				"id": "4-1",
+				"text": "职能管理",
+				"icons": "",
+				"pid": "4-1-a",
+				"fourthTabs": [],
+				"url": "#/workManage/role",
+				"children": []
+			},
+			{
+				"id": "4-2",
+				"text": "工作上报",
+				"icons": "",
+				"pid": "4-2-a",
+				"fourthTabs": [],
+				"url": "#/workManage/weeklyReport",
+				"children": []
+			},
+			{
+				"id": "4-3",
+				"text": "周报分析",
+				"icons": "",
+				"pid": "4-3-a",
+				"fourthTabs": [],
+				"url": "#/workManage/weeklyStatistics",
+				"children": []
+			}
+		]
+	},
+	{
+		"id": "5",
+		"text": "业务招待费管理",
+		"icons": "",
+		"url": "",
+		"pid": "root",
+		"fourthTabs": [],
+		"children": [
+			{
+				"id": "5-1",
+				"text": "预算录入",
+				"icons": "",
+				"pid": "5-1-a",
+				"fourthTabs": [],
+				"url": "",
+				"children": [
+					{
+						"id": "5-1-1-a",
+						"text": "部门预算",
+						"icons": "",
+						"pid": "5-1-1-a",
+						"fourthTabs": [
+							{
+								"id": "5-1-1-1-a",
+								"text": "季度预算",
+								"icons": "",
+								"pid": "5-1-1-1-a",
+								"fourthTabs": [],
+								"url": "#/entertainmentExpense/departmentBudget?page=quarter",
+								"children": []
+							},
+							{
+								"id": "5-1-1-2-a",
+								"text": "月度预算",
+								"icons": "",
+								"pid": "5-1-1-2-a",
+								"fourthTabs": [],
+								"url": "#/entertainmentExpense/departmentBudget?page=monthly",
+								"children": []
+							}
+						],
+						"url": "",
+						"children": []
+					}
+				]
+			},
+			{
+				"id": "5-2",
+				"text": "招待费申请",
+				"icons": "",
+				"pid": "5-2-a",
+				"fourthTabs": [],
+				"url": "",
+				"children": [
+					{
+						"id": "5-2-1",
+						"text": "招待费申请",
+						"icons": "",
+						"pid": "5-2-1-a",
+						"fourthTabs": [],
+						"url": "#/entertainmentExpense/apply",
+						"children": []
+					},
+					{
+						"id": "5-2-2",
+						"text": "招待费变更",
+						"icons": "",
+						"pid": "5-2-2-a",
+						"fourthTabs": [],
+						"url": "#/entertainmentExpense/change",
+						"children": []
+					}
+				]
+			},
+			{
+				"id": "5-3",
+				"text": "业务招待费管理",
+				"icons": "",
+				"pid": "5-3-a",
+				"fourthTabs": [
+					{
+						"id": "5-3-1",
+						"text": "季度",
+						"icons": "",
+						"pid": "5-3-1-a",
+						"fourthTabs": [],
+						"url": "#/entertainmentExpense/manage?page=quarter",
+						"children": []
+					},
+					{
+						"id": "5-3-2",
+						"text": "月度",
+						"icons": "",
+						"pid": "5-3-2-a",
+						"fourthTabs": [],
+						"url": "#/entertainmentExpense/manage?page=monthly",
+						"children": []
+					}
+				],
+				"url": "",
+				"children": [
+				
+				]
+			}
+		]
+	},
+	{
+		"id": "394881a3ea694f62b2e0f5d349639710",
+		"text": "新-项目管理",
+		"icons": "&#xe739;",
+		"url": "",
+		"pid": "root",
+		"fourthTabs": [],
+		"children": [
+			{
+				"id": "82590dd16dc745ba919b1d07b5c53f3b",
+				"text": "我的项目",
+				"icons": "",
+				"url": "",
+				"target": "stage",
+				"sort": 0,
+				"remindurl": "",
+				"pid": "394881a3ea694f62b2e0f5d349639710",
+				"fourthTabs": [],
+				"children": [
+					{
+						"id": "29eb831b0fec41e9aa23128b8e181c2a",
+						"text": "我管理的",
+						"icons": "",
+						"url": "/#/myProject",
+						"pid": "82590dd16dc745ba919b1d07b5c53f3b",
+						"fourthTabs": [],
+						"children": []
+					},
+					{
+						"id": "fd81908080714985ba62f4996b6dcaea",
+						"text": "我参加的",
+						"icons": "",
+						"url": "/#/myJoinProject",
+						"pid": "82590dd16dc745ba919b1d07b5c53f3b",
+						"fourthTabs": [],
+						"children": []
+					}
+				]
+			},
+			{
+				"id": "a09d4c5dd8094247afb0b2cafe3cc85d",
+				"text": "项目立项",
+				"icons": "",
+				"url": "",
+				"pid": "394881a3ea694f62b2e0f5d349639710",
+				"fourthTabs": [],
+				"children": [
+					{
+						"id": "9f5e119ff8ce4685ad9385f8ce78cc2f",
+						"text": "立项申请",
+						"icons": "&#xe739;",
+						"url": "/#/myApply",
+						"pid": "a09d4c5dd8094247afb0b2cafe3cc85d",
+						"fourthTabs": [],
+						"children": []
+					},
+					{
+						"id": "97744414621c4c7381bbd03058aa21fa",
+						"text": "立项查询",
+						"icons": "",
+						"url": "/#/getMyApply",
+						"pid": "a09d4c5dd8094247afb0b2cafe3cc85d",
+						"fourthTabs": [],
+						"children": []
+					}
+				]
+			},
+			{
+				"id": "33f75d9b8e834610aea2489ff1bb9f42",
+				"text": "项目变更",
+				"icons": "",
+				"url": "",
+				"pid": "394881a3ea694f62b2e0f5d349639710",
+				"fourthTabs": [],
+				"children": [
+					{
+						"id": "35a9ac27e8704f9f87c3eab281f7cf83",
+						"text": "变更申请",
+						"icons": "&#xe739;",
+						"url": "/#/changeApplication",
+						"pid": "33f75d9b8e834610aea2489ff1bb9f42",
+						"fourthTabs": [],
+						"children": []
+					},
+					{
+						"id": "01c367fc6cbd48c7ad6497a28101a016",
+						"text": "变更查询",
+						"icons": "&#xe739;",
+						"url": "/#/getChangeApplication",
+						"pid": "33f75d9b8e834610aea2489ff1bb9f42",
+						"fourthTabs": [],
+						"children": []
+					}
+				]
+			},
+			{
+				"id": "730fadfbbeac4bc890a87476ceaf54cf",
+				"text": "项目统计",
+				"icons": "",
+				"url": "",
+				"pid": "394881a3ea694f62b2e0f5d349639710",
+				"fourthTabs": [],
+				"children": [
+					{
+						"id": "e69af38c9a264ca1a1ba90db66353ff0",
+						"text": "项目库",
+						"icons": "&#xe739;",
+						"url": "/#/getLibrary",
+						"pid": "730fadfbbeac4bc890a87476ceaf54cf",
+						"fourthTabs": [],
+						"children": []
+					}
+				]
+			},
+			{
+				"id": "46fd0809a5c6463895a7e1be4ad75998",
+				"text": "配置管理",
+				"icons": "",
+				"url": "",
+				"pid": "394881a3ea694f62b2e0f5d349639710",
+				"fourthTabs": [],
+				"children": [
+					{
+						"id": "badaa3d4e70f4139a8db1883c71403d1",
+						"text": "项目过程定义",
+						"icons": "&#xe739;",
+						"url": "/#/getProjectProcess",
+						"pid": "46fd0809a5c6463895a7e1be4ad75998",
+						"fourthTabs": [],
+						"children": []
+					},
+					{
+						"id": "21ac817802254c2aa1050b432730d6cd",
+						"text": "项目库分类管理",
+						"icons": "&#xe739;",
+						"url": "/#/getClassification",
+						"pid": "46fd0809a5c6463895a7e1be4ad75998",
+						"fourthTabs": [],
+						"children": []
+					}
+				]
+			}
+		]
+	}
+]

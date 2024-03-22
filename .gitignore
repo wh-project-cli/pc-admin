@@ -1,0 +1,28 @@
+.DS_Store
+node_modules
+/dist
+*/dist
+.history
+package-lock.json
+# local env files
+.env.local
+.env.*.local
+#这是打包文件 设有/路径 不影响src中的同名文件
+/assets
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.rar
+*.zip
+*.sh
